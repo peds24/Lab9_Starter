@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    TrackJS.track('Testing TrackJS!');      
+    //TrackJS.track('Testing TrackJS!');      
     // Custom Error
     class GlobalErr extends Error {
         constructor(message) {
